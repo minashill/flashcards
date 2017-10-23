@@ -1,0 +1,5 @@
+{"text":"yo","cloze":"yoyo","partial":"oyoy"}
+{"front":"what number?","back":"24"}
+{"front":"where are you?","back":"here"}
+{"front":"best team?","back":"broncos"}
+{"text":"dsc","cloze":"sdf","partial":"zfsdf"}
